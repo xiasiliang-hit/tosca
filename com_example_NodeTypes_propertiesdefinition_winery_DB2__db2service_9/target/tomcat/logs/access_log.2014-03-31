@@ -1,0 +1,2 @@
+127.0.0.1 - - [31/Mar/2014:10:50:28 +0200] "POST /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__db2servicePort HTTP/1.1" 202 - http-bio-9090-exec-1 166
+127.0.0.1 - - [31/Mar/2014:10:52:00 +0200] "POST /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__db2servicePort HTTP/1.1" 202 - http-bio-9090-exec-3 5
